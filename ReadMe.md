@@ -4,12 +4,12 @@
 
 ### ㄱ. [방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발](####-ㄱ.-방송-및-공연-환경에서의-각-전문분야의-유기적인-활동을-지원하기-위한-프로그램-군의-개발)
 ### ㄴ. [영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템](####-ㄴ.-[영상,-음성-분석기술을-이용한-고객-관리-솔루션-시스템])
-### ㄷ. [ASMR Director]()
-### ㄹ. [Chord Player]()
-### ㅁ. [Stdio Recording]()
-### ㅂ. [Karaoke Studio]()
-### ㅅ. [Whyme]()
-### ㅇ. [myOndo]()
+### ㄷ. [ASMR Director](####-ㄷ.-ASMR-Director)
+### ㄹ. [Chord Player](####-ㄹ.-Chord-Player)
+### ㅁ. [Stdio Recording](####-ㅁ.-Stdio-Recording)
+### ㅂ. [Karaoke Studio](####-ㅂ.-Karaoke-Studio)
+### ㅅ. [Whyme](####-ㅅ.-Whyme)
+### ㅇ. [myOndo](####-ㅇ.-myOndo)
 ### ㅈ. [IMU를 활용한 측위 알고리즘 / Firmware 개발]()
 
 ## 2. [수상 실적]()
@@ -45,3 +45,89 @@
 ***
 
 #### ㄴ. 영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+#### ㄷ. ASMR Director
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+***
+
+#### ㄹ. Chord Player
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+
+#### ㅁ. Stdio Recording
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+#### ㅂ. Karaoke Studio
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+#### ㅅ. Whyme
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+#### ㅇ. myOndo
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
+
+#### ㅈ. IMU를 활용한 측위 알고리즘 / Firmware 개발
+
+* 프로젝트 개요 : 
+    + something in here
+
+* 기여 :
+    + writing what i did in this project
+
+<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+***
