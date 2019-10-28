@@ -22,6 +22,7 @@
 <!-- (#-ㅇ.myOndo) -->
 ### ㅈ. IMU를 활용한 측위 알고리즘 / Firmware 개발
 <!-- (#ㅈ.IMU를-활용한-측위-알고리즘-/-Firmware-개발) -->
+### ㅊ. 기타
 
 ## 2. 개인 프로젝트
 ### ㄱ. FRGame
@@ -183,7 +184,39 @@
 
 * Video [download](https://github.com/krackWingSam/portfolio/raw/master/%EB%B2%95%EB%AC%B4%EB%B6%80/video.mov) <br/>
     [<img src="법무부/07.png" width="200px" height="140px" title="Application Screen" alt=""></img>](https://github.com/krackWingSam/portfolio/raw/master/%EB%B2%95%EB%AC%B4%EB%B6%80/video.mov)<br/> 
-    
+---    
+
+#### ㅊ. 기타
+* 나비링크<br/>
+    <img src="./Ex-Mobile/ScreenShots/나비링크/01.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/나비링크/02.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/나비링크/03.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+
+* 아바타 빈즈 <br/>
+    <img src="./Ex-Mobile/ScreenShots/아바타빈즈/04.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/아바타빈즈/01.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/아바타빈즈/03.png" width="180px" height="320px" title="Application Screen" alt=""></img><br/>
+
+* 경동 온수매트 <br/>
+    <img src="./Ex-Mobile/ScreenShots/온수매트/국내향/01.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/온수매트/국내향/02.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/온수매트/국내향/03.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+
+* 입자 <br/>
+    <img src="./Ex-Mobile/ScreenShots/입자/01.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/입자/02.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/입자/05.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+
+* 경동 홈오토 <br/>
+    <img src="./Ex-Mobile/ScreenShots/홈오토/02.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/홈오토/03.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/홈오토/04.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+
+* 한마루 <br/>
+    <img src="./Ex-Mobile/ScreenShots/AI 스피커/01.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/AI 스피커/04.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+    <img src="./Ex-Mobile/ScreenShots/AI 스피커/03.png" width="180px" height="320px" title="Application Screen" alt=""></img>
+
 ---
 
 ## 2.개인 프로젝트
