@@ -41,7 +41,16 @@
     + 각 어플리케이션간 커뮤니케이션을 위한 Socket 통신부 개발
 
 * 해당 프로그램군을 활용하여 총 3회의 공연 수행
-<img src="/need/image/path.jpg" width="450px" height="300px" title="need to add images" alt=""></img><br/>
+
+<img src="./old/ewat/p1.jpg" width="130px" height="130px" title="공연1 : 그녀의 시간 포스터" alt="그녀의 시간 포스터"></img>
+<img src="./old/ewat/p2.jpg" width="184px" height="130px" title="공연2 : 그녀의 시간2 포스터" alt="그녀의 시간2 포스터"></img>
+<img src="./old/ewat/p3.jpg" width="104px" height="147px" title="공연3 : 미혹" alt="미혹"></img><br/><br/>
+<img src="./old/ewat/a1.png" width="150px" height="100px" title="Application : VE" alt="App 1"></img>
+<img src="./old/ewat/a3.png" width="150px" height="100px" title="Application : VE" alt="App 3"></img>
+<img src="./old/ewat/a2.png" width="150px" height="100px" title="Application : IS" alt="App 2"></img><br/>
+<img src="./old/ewat/a5.jpg" width="150px" height="100px" title="Application : IS" alt="App 5"></img>
+<img src="./old/ewat/a4.jpg" width="150px" height="100px" title="Application : GVE" alt="App 4"></img><br/><br/>
+<img src="./old/ewat/r1.jpg" width="150px" height="100px" title="in performance" alt="Performance"></img>
 ***
 
 #### ㄴ. 영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템
