@@ -2,22 +2,22 @@
 ## 목차
 ## 1. [참여 프로젝트](##-1.-참여-프로젝트)
 
-### ㄱ. [방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발](####-ㄱ.-방송-및-공연-환경에서의-각-전문분야의-유기적인-활동을-지원하기-위한-프로그램-군의-개발)
-### ㄴ. [영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템](####-ㄴ.-[영상,-음성-분석기술을-이용한-고객-관리-솔루션-시스템])
-### ㄷ. [ASMR Director](####-ㄷ.-ASMR-Director)
-### ㄹ. [Chord Player](####-ㄹ.-Chord-Player)
-### ㅁ. [Stdio Recording](####-ㅁ.-Stdio-Recording)
-### ㅂ. [Karaoke Studio](####-ㅂ.-Karaoke-Studio)
-### ㅅ. [Whyme](####-ㅅ.-Whyme)
-### ㅇ. [myOndo](####-ㅇ.-myOndo)
-### ㅈ. [IMU를 활용한 측위 알고리즘 / Firmware 개발]()
+### ㄱ. [방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발](#ㄱ.방송-및-공연-환경에서의-각-전문분야의-유기적인-활동을-지원하기-위한-프로그램-군의-개발)
+### ㄴ. [영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템](####-ㄴ.[영상,-음성-분석기술을-이용한-고객-관리-솔루션-시스템])
+### ㄷ. [ASMR Director](#-ㄷ.ASMR-Director)
+### ㄹ. [Chord Player](#-ㄹ.Chord-Player)
+### ㅁ. [Stdio Recording](#-ㅁ.Stdio-Recording)
+### ㅂ. [Karaoke Studio](#-ㅂ.Karaoke-Studio)
+### ㅅ. [Whyme](#-ㅅ.Whyme)
+### ㅇ. [myOndo](#-ㅇ.myOndo)
+### ㅈ. [IMU를 활용한 측위 알고리즘 / Firmware 개발](#ㅈ.IMU를-활용한-측위-알고리즘-/-Firmware-개발)
 
 ## 2. [개인 프로젝트]()
 ## 3. [수상 실적]()
 ---
 
 ## 1. 참여 프로젝트
-#### ㄱ. 방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발
+#### ㄱ.방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발
 * 프로젝트 개요 : 
     + 방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군(5개)의 개발(OSX/iOS 환경)
     + SE(Sound Engine)
@@ -54,7 +54,7 @@
     <img src="./old/ewat/r1.jpg" width="150px" height="100px" title="in performance" alt="Performance"></img>
 ***
 
-#### ㄴ. 영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템
+#### ㄴ.영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템
 
 * 프로젝트 개요 : 
     + Keynect를 이용하여 사용자의 얼굴 표정을 추측
@@ -64,7 +64,7 @@
 <img src="./old/self/a1.jpg" width="433px" height="327px" title="Application Screen" alt="Application"></img><br/>
 ***
 
-#### ㄷ. ASMR Director
+#### ㄷ.ASMR Director
 
 * 프로젝트 개요 : 
     + 사용자가 원하는 white noise를 추가하여 자신만의 ASMR을 만들 수 있는 Application
@@ -76,7 +76,7 @@
     <img src="./old/Kadncha_Fermata/a3.jpg" width="180px" height="320px" title="Application Screen" alt="Application"></img>
 ***
 
-#### ㄹ. Chord Player
+#### ㄹ.Chord Player
 
 * 프로젝트 개요 : 
     + Chord 기반의 가상 악기
@@ -101,7 +101,7 @@
     <img src="./old/Kadncha_Fermata/a6.png" width="180px" height="320px" title="Application Screen" alt="Application"></img>
 ***
 
-#### ㅂ. Karaoke Studio
+#### ㅂ.Karaoke Studio
 
 * 프로젝트 개요 : 
     + Youtube 동영상을 이용하여 UCC 제작을 도와주는 Application
@@ -115,7 +115,7 @@
     <img src="./old/Kadncha_Fermata/a9.png" width="180px" height="320px" title="Application Screen" alt="Application"></img>
 ***
 
-#### ㅅ. Whyme
+#### ㅅ.Whyme
 
 * 프로젝트 개요 : 
     + 구인구직 플랫폼
@@ -133,7 +133,7 @@
     <img src="./askstory/a1.png" width="180px" height="320px" title="Application Screen" alt=""></img>
 ***
 
-#### ㅇ. myOndo
+#### ㅇ.myOndo
 
 * 프로젝트 개요 : 
     + 에어컨 제어를 위한 IoT 서비스
@@ -148,7 +148,7 @@
     <img src="./askstory/a4.jpg" width="180px" height="320px" title="Application Screen" alt=""></img>
 ***
 
-#### ㅈ. IMU를 활용한 측위 알고리즘 / Firmware 개발
+#### ㅈ.IMU를 활용한 측위 알고리즘 / Firmware 개발
 
 * 프로젝트 개요 : 
     + 위치추적장치 개발중 Offline 상태에서의 측위/행동 관찰을 위한 알고리즘 개발
@@ -169,4 +169,4 @@
     <img src="법무부/05.png" width="200px" height="144px" title="Application Screen" alt=""></img>
 
     Video<br/>
-    <img src="법무부/07.png" width="200px" height="140px" title="Application Screen" alt=""></img><br/>
+    [<img src="법무부/07.png" width="200px" height="140px" title="Application Screen" alt=""></img>](법무부/video.mov)<br/>
