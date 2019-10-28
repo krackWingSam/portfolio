@@ -1,20 +1,32 @@
+<!-- 내부 링크가 github 페이지에서는 정상적으로 동작을 안하고 있음. -->
+<!-- 동작하는 문법을 찾거나, 방법을 찾을 때 까지는 주석처리 -->
 # 포트폴리오
 ## 목차
-## 1. [참여 프로젝트](#1.참여-프로젝트)
-### ㄱ. [방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발](#ㄱ.방송-및-공연-환경에서의-각-전문분야의-유기적인-활동을-지원하기-위한-프로그램-군의-개발)
-### ㄴ. [영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템](#ㄴ.[영상,-음성-분석기술을-이용한-고객-관리-솔루션-시스템])
-### ㄷ. [ASMR Director](#-ㄷ.ASMR-Director)
-### ㄹ. [Chord Player](#-ㄹ.Chord-Player)
-### ㅁ. [Stdio Recording](#-ㅁ.Stdio-Recording)
-### ㅂ. [Karaoke Studio](#-ㅂ.Karaoke-Studio)
-### ㅅ. [Whyme](#-ㅅ.Whyme)
-### ㅇ. [myOndo](#-ㅇ.myOndo)
-### ㅈ. [IMU를 활용한 측위 알고리즘 / Firmware 개발](#ㅈ.IMU를-활용한-측위-알고리즘-/-Firmware-개발)
+## 1. 참여 프로젝트
+<!-- (#1.참여-프로젝트) -->
+### ㄱ. 방송 및 공연 환경에서의 각 전문분야의 유기적인 활동을 지원하기 위한 프로그램 군의 개발
+<!-- (#ㄱ.방송-및-공연-환경에서의-각-전문분야의-유기적인-활동을-지원하기-위한-프로그램-군의-개발) -->
+### ㄴ. 영상, 음성 분석기술을 이용한 고객 관리 솔루션 시스템
+<!-- (#-ㄴ.[영상,-음성-분석기술을-이용한-고객-관리-솔루션-시스템]) -->
+### ㄷ. ASMR Director
+<!-- (#-ㄷ.ASMR-Director) -->
+### ㄹ. Chord Player
+<!-- (#-ㄹ.Chord-Player) -->
+### ㅁ. Stdio Recording
+<!-- (#-ㅁ.Stdio-Recording) -->
+### ㅂ. Karaoke Studio
+<!-- (#-ㅂ.Karaoke-Studio) -->
+### ㅅ. Whyme
+<!-- (#-ㅅ.Whyme) -->
+### ㅇ. myOndo
+<!-- (#-ㅇ.myOndo) -->
+### ㅈ. IMU를 활용한 측위 알고리즘 / Firmware 개발
+<!-- (#ㅈ.IMU를-활용한-측위-알고리즘-/-Firmware-개발) -->
 
-## 2. [개인 프로젝트]()
+## 2. 개인 프로젝트
 ### ㄱ. 
 ### ㄴ. 
-## 3. [수상 실적]()
+## 3. 수상 실적
 ---
 
 ## 1.참여 프로젝트
@@ -169,5 +181,39 @@
     <img src="법무부/04.png" width="200px" height="140px" title="Application Screen" alt=""></img><br/>
     <img src="법무부/05.png" width="200px" height="144px" title="Application Screen" alt=""></img>
 
-    Video<br/>
-    [<img src="법무부/07.png" width="200px" height="140px" title="Application Screen" alt=""></img>](법무부/video.mov)<br/>
+* Video [download](https://github.com/krackWingSam/portfolio/raw/master/%EB%B2%95%EB%AC%B4%EB%B6%80/video.mov) <br/>
+    [<img src="법무부/07.png" width="200px" height="140px" title="Application Screen" alt=""></img>](https://github.com/krackWingSam/portfolio/raw/master/%EB%B2%95%EB%AC%B4%EB%B6%80/video.mov)<br/> 
+    
+---
+
+## 2.개인 프로젝트
+#### ㄱ.FRGame
+* 프로젝트 개요 : 
+    + Drag 를 이용한 간단한 퍼즐 게임
+* 개발 진행사항 : 
+    + swift 로 변환 완료
+    + Interaction 부문 개발 완료
+    + Animation 부분 구현 필요
+    + 게임 내부 시스템중 각 Phase 의 명확한 기획 필요
+* [git Link](https://github.com/krackWingSam/FRGame01/tree/swift)
+---
+
+#### ㄴ.FRBinder
+* 프로젝트 개요 : 
+    + Notification을 이용한 Model 객체와 UI 객체의 연결을 위한 라이브러리
+    + ViewController 클래스의 코드 정리를 위해 개발
+    + 특히 IoT 어플리케이션의 경우, 서버 혹은 디바이스로부터 받는 정보의 UI 출력을 위한 구문들이 복잡해지고, 해당 코드의 분리가 어렵기 때문에 라이브러리 제작
+* 특징 : 
+    + ViewController 의 Life Cycle 에 맞추어 Bind와 Release 호출
+    + Protocol-Delegate 패턴으로부터 오는 코드 복잡도를 줄일 수 있음
+    + 각 UI에 출력하기 위한 데이터 모델의 정제를 함수부로 구분하여 사용 가능
+    + UITextField 를 사용하는 경우 로직내의 버그가 존재
+* 추가 개발 필요사항 : 
+    + 디버그를 쉽게 하기위한 추가 구현 필요 (메모리 추적을 위한)
+    + 모델의 변수 타입 구체화
+    + 라이브러리 생성시 shell script 구문 불안정
+* [git Link](https://github.com/krackWingSam/FRBinder)
+
+
+## 3. 수상 실적
+#### 
